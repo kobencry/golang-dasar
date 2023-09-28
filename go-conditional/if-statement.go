@@ -1,4 +1,4 @@
-package main
+sdpackage main
 
 import "fmt"
 
